@@ -1,1 +1,2 @@
 This is third file
+Verifying the 4th type of trigger
